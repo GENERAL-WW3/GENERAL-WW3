@@ -1,8 +1,7 @@
-
-<div></div>
+![logo](https://github.com/TITAN-QP/TITAN-QP/blob/main/titan-lo.gif.gif)
 <h1 align="center">Hi 👋, I'm VICTOR</h1>
 <h3 align="center">A passionate frontend developer from IRAN</h3>
-<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="titan-qp">
+<img align="right" width="350" src="https://github.com/TITAN-QP/TITAN-QP/blob/main/codtitan-pp.gif.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titan-qp&label=Profile%20views&color=0e75b6&style=flat" alt="titan-qp" /> </p>
