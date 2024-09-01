@@ -1,6 +1,6 @@
 ![logo](https://github.com/TITAN-QP/TITAN-QP/blob/main/titan-lo.gif.gif)
 <h1 align="center">ᎻᏆ 👋, Ꮖ ᎪᎷ ɢᴇɴᴇʀᴀʟ</h1>
-<h3 align="center">A passionate frontend developer from IRAN</h3>
+<h3 align="center"> 𝕒 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕗𝕣𝕠𝕟𝕥𝕖𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 𝕀ℝ𝔸ℕ </h3>
 <img align="right" width="350" src="https://github.com/TITAN-QP/TITAN-QP/blob/main/giphy_3.webp"/>
 
 
